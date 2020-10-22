@@ -1,0 +1,11 @@
+.content-table table{
+    width: 100%;
+}
+.content-table th{
+    background-color: #555;
+    color: #fff;
+}
+
+.content-table .Par{
+    background-color: #ddd;
+}
